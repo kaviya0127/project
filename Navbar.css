@@ -1,0 +1,10 @@
+div .Nav-Menu{
+    display: flex;
+    text-align: center;
+    
+    justify-content: space-between;
+    
+}
+.navbar-right{
+    text-align: center;
+}
